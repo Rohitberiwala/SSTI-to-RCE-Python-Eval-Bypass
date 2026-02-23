@@ -31,9 +31,6 @@ Open your terminal and start a netcat listener to catch the reverse shell:
 nc -lvnp 4444
 
 
-
-
-
 Run the Exploit
 Execute the script by providing the target IP, your listener IP, and the port:
 
